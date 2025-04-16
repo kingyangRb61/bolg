@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://kingyangrb61.github.io/bolg/sitemap.xml
+Sitemap: https://kingyangrb61.github.io/sitemap.xml

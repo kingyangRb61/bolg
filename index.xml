@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Even - A super concise theme for Hugo</title>
-    <link>https://kingyangrb61.github.io/bolg/</link>
+    <link>https://kingyangrb61.github.io/</link>
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://kingyangrb61.github.io/bolg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kingyangrb61.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

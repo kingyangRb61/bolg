@@ -1,28 +1,28 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/bolg/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://kingyangrb61.github.io/bolg/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/bolg/</loc>
+    <loc>https://kingyangrb61.github.io/bolg/</loc>
     <lastmod>2025-04-16T00:17:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bolg/post/</loc>
+    <loc>https://kingyangrb61.github.io/bolg/post/</loc>
     <lastmod>2025-04-16T00:17:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bolg/categories/</loc>
+    <loc>https://kingyangrb61.github.io/bolg/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bolg/tags/</loc>
+    <loc>https://kingyangrb61.github.io/bolg/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
